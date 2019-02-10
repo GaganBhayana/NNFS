@@ -1,0 +1,10 @@
+{
+	"development": {
+		"PORT": "8000",
+		"ACCESS_TOKEN": "ya29.GltTBjHqn0YRBni14AXil95wFVFAh0KOLAXN0Pz7SOlY0NPVRWMUNaqKR3s4m7eVkBgsUDdrPw32Q2q88aKi2DRjveS0_54897ytKug1NEytbVZ1LFPrsCWC6yHu",
+		"CLIENT_ID": "878616663742-umrn4cq2348l3gnrqn6sip17suap4gqm.apps.googleusercontent.com",
+		"CLIENT_SECRET": "Qu6KopSCHXjlH_vH8ojgbozq",
+		"REFRESH_TOKEN": "1/OECcQL72WbSaLQTfJZPxxWM4VpR-7wCoDtAyGpzXulrhl2nkxT7R_nMET-VcuKwh",
+		"EMAIL": "bokaderohit1998@gmail.com"
+	}
+}
